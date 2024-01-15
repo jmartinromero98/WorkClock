@@ -1,1 +1,2 @@
 rootProject.name = 'WorkClock'
+include 'domain', 'application', 'infrastructure'
