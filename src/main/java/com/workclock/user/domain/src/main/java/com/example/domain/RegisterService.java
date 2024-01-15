@@ -1,4 +1,4 @@
-package com.workclock.user.application;
+package com.workclock.user;
 
 import com.workclock.user.domain.UserRepository;
 import com.workclock.user.domain.UserSearcher;

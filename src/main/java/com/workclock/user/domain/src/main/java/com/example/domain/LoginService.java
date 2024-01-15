@@ -1,4 +1,4 @@
-package com.workclock.user.application;
+package com.workclock.user;
 
 import com.workclock.user.domain.*;
 import com.workclock.user.domain.entity.Email;
